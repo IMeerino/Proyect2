@@ -1,0 +1,25 @@
+.antescontenedorcss{
+    padding-top: 5rem;
+}
+.contenedorcss{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+
+
+#lista {
+    background-color: rgb(255, 255, 255);
+    transition: background-color .5s;
+    border-radius: 4px;
+  }
+  
+#lista:hover {
+    background-color: #01bcf1;
+    border-radius: 4px;
+
+  }
+
+  
